@@ -10,17 +10,11 @@
 
  1. To perform a search, enter your search criteria into the corresponding filter.
 
-
-
-    ![step 1](/assets/images/step1.png "enter search criteria")
-
-
+    ![step 1](/static/images/step1.png "enter search criteria")
 
  2. Simply click away from the filter to rebuild the table with matching results.
 
-
-
-    ![step 2](/assets/images/step2.png "show filtered data")
+    ![step 2](/static/images/step2.png "show filtered data")
 
 ## Summary:
 
