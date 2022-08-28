@@ -1,20 +1,12 @@
 # UFOs
 
----
-
 ## Overview: 
 
----
 
  <p>This interactive webpage provides an analysis of UFO sightings by allowing users to filter for multiple criteria at the same time.</p>
 
-
-
----
-
 ## Results:
 
----
 
  1. To perform a search, enter your search criteria into the corresponding filter.
 
@@ -30,14 +22,7 @@
 
     ![step 2](/assets/images/step2.png "show filtered data")
 
-
-
-
----
-
 ## Summary:
-
----
 
 ### Drawbacks:
 
@@ -49,4 +34,4 @@
 
 - allow user to search for results with a date range
 
-- allow partial matches (if 'a' entered in state filter, shows all results in states beginning with 'a')
+- allow partial matches (if 'a' entered in state filter, show all results in states beginning with 'a')
